@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    background-color: #eff0f4;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbotron {
+    background-color:#bbbbbb;
+    margin-bottom: 10px;
+    /* margin-top: 10px; */
+}
+
+
+.heading{
+    font-weight: 100;
+    font-size: 6em;
+    text-shadow: 1px 1px 5px black;
+    text-align: center;
+}
+
+img{
+    height: 90%;
+    width: 100%;
+}
+
+.card-img-top{
+    height: 16rem;
+}
+
+.text{
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+}
+
+.btn{
+    width: 100%;
+}
